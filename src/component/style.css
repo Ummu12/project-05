@@ -1,0 +1,17 @@
+.main{
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid maroon;
+    height: 1000px;
+}
+
+.child{
+    margin: 20px;
+    padding: 10px;
+    border: 5px inset yellowgreen;
+    border-radius: 20px;
+    width: 300px;
+    float: left;
+
+
+}
